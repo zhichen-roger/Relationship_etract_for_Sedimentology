@@ -1,0 +1,107 @@
+Clasts | Late Cretaceous | TimSub | Clasts are largely shelf-derived from the Late Cretaceous
+Limestone | Lower Berriasian | TimSub | Lower Berriasian Stramberk Limestone
+Limestone | Campanian | TimSub | Campanian Cesarea Limestone of Salento Peninsula
+Grainstone | Late Cenomanian | TimSub | the Late Cenomanian limestone in central Peloponnesus Grainstone
+Grainstone | Late Cenomanian | TimSub | Grainstone are minor in Late Cenomanian
+Clasts | Berriasian | TimSub | Berriasian age occurs higher in the succession Clasts
+Limestone | Cretaceous | TimSub |  pass gradationally into purple Lower Eocene Limestone rich in Cretaceous
+algae | Coniacian | TimSub | a Coniacian age for the first half of this interval Green algae
+Bryozoans | Coniacian | TimSub | Bryozoans and red algae are well represented Coniacian
+Lithocodium | Albian | TimSub | Albian which imparts a nodular appearanc Clasts of alveolar aggregates of Lithocodium
+Limestones | Coniacian | TimSub |  Limestones of the Kahmah Group in Oman Coniacian
+Echinoids | Aptian | TimSub |  Aptian of limestone and marl at its base, rich has a fauna of Echinoids
+Echinoids | Cenomanian | TimSub | Echinoids from the Rotalipora brotzeni Zone (Lower Cenomanian)
+Limestone | Cretaceous | TimSub | Santa Fe Limestone In this paper the name from Cretaceous
+Limestone | Cretaceous | TimSub | Limestone rests uncomformably on Lower Cretaceous carbonates 
+Breccia | Cenomanian | TimSub | The Santa Fe Breccia is interpreted as a slope facies containing a Cenomanian
+Limestones | Cenomanian | TimSub | The lowermost part of the Pardina Limestones in the Cenomanian
+Limestone | Turonian | TimSub | The uppermost part of the Pardina Limestone corresponds to Limestone
+Limestone | Turonian | TimSub | the Pardina Limestone corresponds to the helvetica and Turonian
+Limestone | Turonian | TimSub | The Pardina Limestone is interpreted as a low-energy platform Turonian
+Limestone | Hauterivian | TimSub | Limestone reached this area only at the end of Hauterivian
+Limestone | Cretaceous | TimSub | The Tata Limestone contains skeletal detritus of echinoderms in Cretaceous
+Limestone | Cretaceous | TimSub | Tata Limestone continued towards the west and southwest Cretaceous
+Limestone | Albian | TimSub | Limestone described from the northern Karavanks as Albian limestone
+Breccia | Valanginian | TimSub |  the Breccia area with postponement during the Berriasian and Valanginian
+Breccia | Cretaceous | TimSub | The Cretaceous sedimentary basin of the Gerecse area was extended Breccia
+Limestone | Albian | TimSub | Cretaceous sedimentation might have taken place in the deep water Limestone
+Limestone | Cretaceous | TimSub | Limestone connected with the present  the Middle Cretaceous sedimentary cycle of
+Limestone | Barremian | TimSub | Limestone scheme of the Barremian stratotype section with bed numbers
+Limestone | Albian | TimSub | A local Permian source for the Albian arrival of volcanic clasts Limestone
+Calcarenite |  Aptian | TimSub | middle Aptian-upper Albianp Calcarenite and marl unit
+Calcarenite | Barremianp | TimSub | Calcarenite Ammonite-bearing marl unit Barremianp
+Calcarenite | Albian | TimSub | Calcarenite and marl unit lower Albian-upper Albian
+Baccinella | Aptian | TimSub | Baccinella Ammonite-bearing marls upper lower-lower upper Aptian
+Calcarenite | Albian | TimSub | Calcarenite and marl unit lower Albian-upper Albianp.
+Scales | Maastrichtian | TimSub | Scales cross sections for the late Maastrichtian platforms
+Lithocodium | Albian | TimSub | The age of this deep-water Lithocodium is considered to be Albian
+Limestone | Turonian | TimSub | According to Balla Limestone Bodrogi the age is early to middle Turonian
+Limestone | Berriasian | TimSub | Angular volcanoclastics in the Oxfordian Fonyaszo Limestone Formation Berriasian
+Limestone | Berriasian | TimSub | The Limestone of the Late Jurassic-Berriasian platform
+Tubiphytes | Berriasian | TimSub | stromatoporoids, Tubiphytes and large gastropods Berriasian
+Limestone | Cretaceous | TimSub | Cretaceous bioconstructed margin Monte Sacro Limestone
+Limestone | Limestone | TimSub | Limestone bioconstructed margin Monte Sacro Limestone
+Wackestone | Turonian | TimSub | Wackestone showing large Whiteinella , Saccocoma  and Turonian
+Wackestone | Cenomanian | TimSub | Wackestone showing large Whiteinella Cenomanian
+Wackestone | Cenomanian | TimSub | Wackestone of calcispheres and rarer Saccocoma debris, acme Cenomanian
+Packstone | Turonian | TimSub | Packstone wackestone of calcispheres and Saccocoma Turonian
+Limestones | Campanian | TimSub | Limestones of this facies yield many ammonites Campanian
+Limestone | Turonian | TimSub | Limestone facies At Wadi Bou Jarra, the equivalent Turonian
+Wackestone | Cenomanian | TimSub | Wackestone with many incertae sedis sections including Pithonella Cenomanian
+Calcareous | Aragonite | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Aragonite
+Calcareous | Dolomite | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Dolomite
+Calcareous | Nonplanar | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Nonplanar
+Calcareous | Planar | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Planar
+Calcareous | Crystalline | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Crystalline
+Calcareous | Crystallization | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Crystallization
+Calcareous | Euhedral | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Euhedral
+Calcareous | Subhedral | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Subhedral
+Calcareous | Anhedral | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Anhedral
+Calcareous | Crystal | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Crystal
+Calcareous | Crystalline | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Crystalline
+Calcareous | Aphanocrystalline | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Aphanocrystalline
+Calcareous | Crystallization | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Crystallization
+Calcareous | Equigranular | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Equigranular
+Calcareous | Inequigranular | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Inequigranular
+Calcareous | Porphyrotopic | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Porphyrotopic
+Calcareous | Poikilotopic | property | Calcareous proprium Metoicoceras gesliniamim Ammonite Poikilotopic
+Microbialite | Cement | property | Microbialite proprium Metoicoceras gesliniamim Ammonite Cement
+Microbialite | Acicular | property | Microbialite proprium Metoicoceras gesliniamim Ammonite Acicular
+Micrudite | oolitic | part | Micrudite Dolomite crystals  Lamination Breccias oolitic
+Micrudite | lumps | part | Micrudite Dolomite crystals  Lamination Breccias lumps
+Micrudite | Microbial | part | Micrudite Dolomite crystals  Lamination Breccias Microbial
+Micrudite | Clasts | part | Micrudite Dolomite crystals  Lamination Breccias Clasts
+Micrudite | Intraclast | part | Micrudite Dolomite crystals  Lamination Breccias Intraclast
+Micrudite | Extraclast | part | Micrudite Dolomite crystals  Lamination Breccias Extraclast
+Micrudite | Carbonate | part | Micrudite Dolomite crystals  Lamination Breccias Carbonate
+Micrudite | Cement | part | Micrudite Dolomite crystals  Lamination Breccias Cement
+Micrudite | Intraparticle | part | Micrudite Dolomite crystals  Lamination Breccias Intraparticle
+Micrudite | Interparticle | part | Micrudite Dolomite crystals  Lamination Breccias Interparticle
+Micrudite | Fenestral | part | Micrudite Dolomite crystals  Lamination Breccias Fenestral
+Micrudite | Shelter | part | Micrudite Dolomite crystals  Lamination Breccias Shelter
+Micrudite | Intercrystal | part | Micrudite Dolomite crystals  Lamination Breccias Intercrystal
+Micrudite | Moldic | part | Micrudite Dolomite crystals  Lamination Breccias Moldic
+Micrudite | Channel | part | Micrudite Dolomite crystals  Lamination Breccias Channel
+Micrudite | Fracture | part | Micrudite Dolomite crystals  Lamination Breccias Fracture
+Micrudite | Vug | part | Micrudite Dolomite crystals  Lamination Breccias Vug
+Micrudite | Cavern | part | Micrudite Dolomite crystals  Lamination Breccias Cavern
+Micrudite | Breccia | part | Micrudite Dolomite crystals  Lamination Breccias Breccia
+Micrudite | Boring | part | Micrudite Dolomite crystals  Lamination Breccias Boring
+Micrudite | Burrow | part | Micrudite Dolomite crystals  Lamination Breccias Burrow
+Micrudite | Shrinkage | part | Micrudite Dolomite crystals  Lamination Breccias Shrinkage
+Intramicrudite | Grains | part | Intramicrudite Dolomite crystals  Lamination Breccias Grains
+Intramicrudite | algae | part | Intramicrudite Dolomite crystals  Lamination Breccias algae
+Porphyrotopic | Maastrichtian | unknown | Maastrichtian foreland flexure been also accommodated Porphyrotopic
+Poikilotopic | Cretaceous | unknown | Cretaceous foreland flexure been also accommodated Poikilotopic
+Poikilotopic | Berriasian | unknown | Berriasian foreland flexure been also accommodated Poikilotopic
+Poikilotopic | Valanginian | unknown | Valanginian foreland flexure been also accommodated Poikilotopic
+Poikilotopic | Hauterivian | unknown | Hauterivian foreland flexure been also accommodated Poikilotopic
+Poikilotopic | Barremian | unknown | Barremian foreland flexure been also accommodated Poikilotopic
+Poikilotopic | Aptian | unknown | Aptian foreland flexure been also accommodated Poikilotopic
+Poikilotopic | Albian | unknown | Albian foreland flexure been also accommodated Poikilotopic
+Poikilotopic | Cenomanian | unknown | Cenomanian foreland flexure been also accommodated Poikilotopic
+Poikilotopic | Turonian | unknown | Turonian foreland flexure been also accommodated Poikilotopic
+Poikilotopic | Coniacian | unknown | Coniacian foreland flexure been also accommodated Poikilotopic
+Poikilotopic | Santonian | unknown | Santonian foreland flexure been also accommodated Poikilotopic
+Poikilotopic | Campanian | unknown | Campanian foreland flexure been also accommodated Poikilotopic
+Poikilotopic | Maastrichtian | unknown | Maastrichtian foreland flexure been also accommodated Poikilotopic
